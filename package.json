@@ -1,0 +1,21 @@
+{
+    "name": "stevexyh-github-vscode-theme",
+    "displayName": "Steve X GitHub",
+    "description": "VSCode Theme of Steve X generated from GitHub Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Steve X GitHub",
+                "uiTheme": "vs-dark",
+                "path": "./themes/stevexyh-github.json"
+            }
+        ]
+    }
+}
